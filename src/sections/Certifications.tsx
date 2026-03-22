@@ -95,7 +95,7 @@ const Certifications = () => {
     {
       name: "Machine Learning Specialization",
       issuer: "Coursera",
-      date: "January 2023",
+      date: "January 2025",
       description: "Comprehensive specialization covering machine learning algorithms, neural networks, and practical ML deployment.",
       logo: "https://images.pexels.com/photos/11035381/pexels-photo-11035381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       credentialId: "CRSML-1234-ABCD",
@@ -105,7 +105,7 @@ const Certifications = () => {
     {
       name: "AWS Solutions Architect",
       issuer: "Amazon Web Services",
-      date: "March 2022",
+      date: "March 2024",
       description: "Professional certification validating expertise in designing distributed systems on AWS platform.",
       logo: "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       credentialId: "AWS-SA-1234-5678",
@@ -115,7 +115,7 @@ const Certifications = () => {
     {
       name: "Full-Stack Development",
       issuer: "Udemy",
-      date: "November 2021",
+      date: "November 2024",
       description: "Comprehensive course covering modern web development technologies and best practices.",
       logo: "https://images.pexels.com/photos/4497189/pexels-photo-4497189.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       credentialId: "UDMY-FS-9876-WXYZ",
@@ -125,7 +125,7 @@ const Certifications = () => {
     {
       name: "Data Science Professional",
       issuer: "IBM",
-      date: "July 2021",
+      date: "July 2023",
       description: "Professional certification covering data analysis, visualization, and machine learning techniques.",
       logo: "https://images.pexels.com/photos/7516363/pexels-photo-7516363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       credentialId: "IBM-DS-5678-EFGH",
@@ -135,7 +135,7 @@ const Certifications = () => {
     {
       name: "Professional Scrum Master",
       issuer: "Scrum.org",
-      date: "April 2021",
+      date: "April 2023",
       description: "Certification validating knowledge of Scrum framework and its application in Agile development.",
       logo: "https://images.pexels.com/photos/3153198/pexels-photo-3153198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       credentialId: "PSM-I-1234-5678",
@@ -145,7 +145,7 @@ const Certifications = () => {
     {
       name: "Google UX Design",
       issuer: "Google",
-      date: "February 2021",
+      date: "February 2022",
       description: "Professional certification in user experience design methodologies and principles.",
       logo: "https://images.pexels.com/photos/5359815/pexels-photo-5359815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       credentialId: "GGL-UXD-8765-ABCD",
