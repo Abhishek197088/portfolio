@@ -42,7 +42,7 @@ const About = () => {
                 transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
               >
                 <div className="text-center">
-                  <div className="text-3xl font-bold">5+</div>
+                  <div className="text-3xl font-bold">1+</div>
                   <div className="text-sm">Years Experience</div>
                 </div>
               </motion.div>
