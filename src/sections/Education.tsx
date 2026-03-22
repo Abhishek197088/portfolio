@@ -14,7 +14,7 @@ const Education = () => {
       icon: <GraduationCap className="w-8 h-8 text-primary-500" />,
     },
     {
-      degree: "High School Diploma",
+      degree: "Diploma in Computer Science",
       institution: "Lovely Professional University",
       duration: "2021 - 2024",
       description: "Focused on Science and Mathematics. Participated in national level programming competitions and secured top ranks.",
