@@ -63,15 +63,11 @@ const Achievement = ({
 const Achievements = () => {
   const achievements = [
     {
-      title: "National Coding Champion",
-      description: "First place in the National Collegiate Programming Contest, competing against 200+ teams from universities across the country.",
+      title: "Inno Tech Winner",
+      description: "First place in the  Inno Tech 2024, competing against 200+ teams from universities .",
       icon: <Trophy className="w-7 h-7" />
     },
-    {
-      title: "Google Hackathon Winner",
-      description: "Led a team of four to victory in Google's annual hackathon with an innovative solution for education technology.",
-      icon: <Award className="w-7 h-7" />
-    },
+    
     {
       title: "Published Research Paper",
       description: "Co-authored a research paper on 'Neural Networks in Natural Language Processing' published in the International Journal of Computer Science.",
@@ -87,11 +83,7 @@ const Achievements = () => {
       description: "Active contributor to major open source projects with over 50 merged pull requests and 1000+ GitHub stars.",
       icon: <Star className="w-7 h-7" />
     },
-    {
-      title: "Tech Speaker",
-      description: "Invited speaker at three regional tech conferences, sharing insights on web development and AI integration.",
-      icon: <Award className="w-7 h-7" />
-    }
+    
   ];
   
   return (
