@@ -41,19 +41,19 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="text-gray-400">
                 <span className="text-primary-500 mr-2">Email:</span>
-                <a href="mailto:abhishek@example.com" className="hover:text-primary-400 transition-colors">
-                  abhishek@example.com
+                <a href="mailto:abhishek197088@gmail.com" className="hover:text-primary-400 transition-colors">
+                  abhishek197088@gmail.com
                 </a>
               </li>
               <li className="text-gray-400">
                 <span className="text-primary-500 mr-2">Phone:</span>
-                <a href="tel:+910000000000" className="hover:text-primary-400 transition-colors">
-                  +91 00000 00000
+                <a href="tel:+918825139113" className="hover:text-primary-400 transition-colors">
+                  +91 8825139113
                 </a>
               </li>
               <li className="text-gray-400">
                 <span className="text-primary-500 mr-2">Location:</span>
-                Bangalore, India
+                Greenvalley Punjab, India
               </li>
             </ul>
           </div>
