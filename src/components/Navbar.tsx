@@ -26,12 +26,12 @@ const Navbar = () => {
   const navItems = [
     { name: 'Home', href: '#home' },
     { name: 'About', href: '#about' },
-    { name: 'Education', href: '#education' },
     { name: 'Skills', href: '#skills' },
     { name: 'Projects', href: '#projects' },
     { name: 'Machine Learning', href: '#machine-learning' },
     { name: 'Certifications', href: '#certifications' },
     { name: 'Achievements', href: '#achievements' },
+    { name: 'Education', href: '#education' },
     { name: 'Contact', href: '#contact' }
   ];
 
