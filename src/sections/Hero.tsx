@@ -158,7 +158,7 @@ const Hero = () => {
               transition={{ duration: 5, repeat: Infinity, ease: "easeInOut" }}
             >
               <img 
-                src="https://i.ibb.co/ksXJmCtC/IMG-4441-1-1.jpg" 
+                src="https://i.ibb.co/h12RcVMS/IMG-4441-1.jpg" 
                 alt="Abhishek Kumar" 
                 className="w-full h-full object-cover" 
               />
