@@ -160,7 +160,7 @@ const Hero = () => {
               <img 
                 src="https://i.ibb.co/h12RcVMS/IMG-4441-1.jpg" 
                 alt="Abhishek Kumar" 
-                className="w-full h-full object-cover" 
+                className="w-full h-full object-cover object-top scale-90"
               />
             </motion.div>
           </div>
