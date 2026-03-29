@@ -55,12 +55,12 @@ function App() {
       <main>
         <Hero />
         <About />
-        <Education />
         <Skills />
         <Projects />
         <MachineLearning />
         <Certifications />
         <Achievements />
+         <Education />
         <Contact />
       </main>
       <Footer />
