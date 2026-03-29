@@ -73,11 +73,7 @@ const Achievements = () => {
       description: "Co-authored a research paper on 'Neural Networks in Natural Language Processing' published in the International Journal of Computer Science.",
       icon: <Star className="w-7 h-7" />
     },
-    {
-      title: "Outstanding Academic Achievement",
-      description: "Graduated in the top 5% of my class with a perfect GPA in all programming courses.",
-      icon: <Medal className="w-7 h-7" />
-    },
+   
     {
       title: "Open Source Contributor",
       description: "Active contributor to major open source projects with over 50 merged pull requests and 1000+ GitHub stars.",
